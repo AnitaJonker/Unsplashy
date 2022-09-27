@@ -1,3 +1,3 @@
 # UnsplashApp
-Build an unsplash app for Span
+Build an unsplash app
 Let's start building
